@@ -29,8 +29,6 @@ In the long run, I also envision combining my career in tech with my entrepreneu
 
 - **VS Code** for my coding environment
 - **Git & GitHub** for version control and collaboration
-- **Docker** for containerization
-- **Postman** for API testing
 - **Slack** for communication and team collaboration
 
 ## 🎯 Learning Focus
