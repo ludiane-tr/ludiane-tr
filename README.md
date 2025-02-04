@@ -10,9 +10,7 @@ Let’s connect!
 
 ## 💡 Career Objective
 
-My goal is to build a sustainable career in tech, where I can continuously learn and contribute to meaningful projects. I’m particularly interested in web development, Python programming, and working on solutions that benefit the community. Eventually, I aim to integrate my technical skills into creating innovative tools for real-world applications, such as automation, data analysis, and accessibility solutions.
-
-In the long run, I also envision combining my career in tech with my entrepreneurial spirit to start projects that can make a difference in the world. Whether it’s through freelance opportunities, full-time positions, or building my own startup, I’m excited for the future.
+My goal is to build a sustainable career in tech, focusing on web development, Python, and creating solutions that benefit the community. I aim to use my skills for real-world applications, such as automation and accessibility. In the future, I also plan to combine my tech career with entrepreneurship to create impactful projects.
 
 ## 👩‍💻 Tech stack
 <br>
