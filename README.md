@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-<p align="center" style="font-size: 52px;">
-    Hello, I'm Ludiane 🙂  
-    <br>  
-    A passionate developer in the making 🚀
-</p>
-
 ## 📝 About Me.
 
 Hi, I’m Ludiane! I’m currently transitioning into the tech world as a software developer. After exploring various fields, I decided to follow my passion for coding and am now a student at [Holberton School](https://www.holbertonschool.com/)
