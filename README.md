@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 ## 📝 About Me.
 
@@ -6,7 +6,13 @@ Hi, I’m Ludiane! I’m currently transitioning into the tech world as a softwa
 
 I’m diving into full-stack development, learning everything from C programming to web development and algorithms. I’m eager to use my skills to create meaningful solutions and am always open to collaboration and learning from others.
 
-Let’s connect!
+>```
+>'''
+>Let’s connect!
+>'''
+>```
+
+
 
 ## 💡 Career Objective
 
