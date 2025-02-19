@@ -18,11 +18,11 @@ I’m diving into full-stack development, learning everything from C programming
 *********************************************************************************************************************************************************
 📰 My current updates:
 
-  🐍  Currently learning Python API
-  📝  Working in a group on the HBnB project
-  📝  Learning Python to build more powerful backend systems.
-  📝  Mastering web development with a focus on full-stack technologies like HTML, CSS, and JavaScript.
-  📝  Building personal projects that showcase my skills and can contribute to my portfolio.
+  🐍Currently learning Python API
+  📝Working in a group on the HBnB project
+  📝Learning Python to build more powerful backend systems.
+  📝Mastering web development with a focus on full-stack technologies like HTML, CSS, and JavaScript.
+  📝Building personal projects that showcase my skills and can contribute to my portfolio.
 
 *********************************************************************************************************************************************************
 
