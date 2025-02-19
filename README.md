@@ -15,9 +15,16 @@ I’m diving into full-stack development, learning everything from C programming
 >```
 
 ---
-## 💡 Career Objective
+*********************************************************************************************************************************************************
+📰 My current updates:
 
-My goal is to build a sustainable career in tech, focusing on web development, Python, and creating solutions that benefit the community. I aim to use my skills for real-world applications, such as automation and accessibility. In the future, I also plan to combine my tech career with entrepreneurship to create impactful projects.
+  🐍  Currently learning Python API
+  📝  Working in a group on the HBnB project
+  📝  Learning Python to build more powerful backend systems.
+  📝  Mastering web development with a focus on full-stack technologies like HTML, CSS, and JavaScript.
+  📝  Building personal projects that showcase my skills and can contribute to my portfolio.
+
+*********************************************************************************************************************************************************
 
 ## 👩‍💻 Tech stack
 
@@ -50,17 +57,6 @@ My goal is to build a sustainable career in tech, focusing on web development, P
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
-
----
-
-
-## 🎯 Learning Focus
-
-I am currently focusing on:
-- Strengthening my C programming skills and understanding low-level concepts.
-- Learning Python to build more powerful backend systems.
-- Mastering web development with a focus on full-stack technologies like HTML, CSS, and JavaScript.
-- Building personal projects that showcase my skills and can contribute to my portfolio.
 
 ---
 
